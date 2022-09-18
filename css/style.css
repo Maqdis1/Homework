@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: lightblue;
+  margin: 100px;
+}
+.card {
+  display: inline-block;
+  width: 250px;
+  background-color: white;
+  padding: 20px;
+  text-align: justify;
+  margin: 0 20px;
+  border-radius: 20px;
+}
+.card_img {
+  width: 40px;
+}
+.card_img img {
+  width: 100%;
+}
+.card_title {
+  margin: 15px 0;
+}
